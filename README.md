@@ -17,9 +17,11 @@
 
 - 🥅 Goalkeeper in his free time
 <br>
-<p>
- 
+<pre>
+</pre>
+
 ##
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araibr&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araibr&layout=compact)

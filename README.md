@@ -24,8 +24,6 @@
 
 - 🥅 Goalkeeper in his free time
 
-<br>
-
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/araibr)
@@ -53,6 +51,7 @@
 
 ### Tools
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![REPLIT](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Overleafy](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
@@ -60,19 +59,22 @@
 
 #
 
-### Github Activity
+### GitHub Activit
 ![Visitor Count](https://profile-counter.glitch.me/araibr/count.svg)<br>
+
+#
 
 <div align="center">
     <a href="https://araibr.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araibr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-    </a>
+    </a> <br>
     <a href="https://araibr.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araibr&layout=compact&theme=merko&langs_count=10" />
-    </a>
+    </a> <br>
     <a href="https://araibr.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://streak-stats.demolab.com?user=araibr&theme=merko&border_radius=5&locale=pt_BR&mode=weekly" />
-    </a>
+    </a> 
+    <br> 
     <a href="https://araibr.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=araibr&theme=merko&layout=compact" />
     </a>

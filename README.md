@@ -16,17 +16,17 @@
 - 👨🏻‍💻 Technology enthusiast
 
 - 🥅 Goalkeeper in his free time
-<br>
-<pre>
-</pre>
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/araibr)
+
+<p>
 
 ##
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araibr&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araibr&show_icons=true&theme=merko)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araibr&layout=compact)
-
-## Contact
 
 </p>
 

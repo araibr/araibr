@@ -23,6 +23,8 @@
 - 👨🏻‍💻 Technology enthusiast
 
 - 🥅 Goalkeeper in his free time
+<br>
+
 
 ### Contact
 
